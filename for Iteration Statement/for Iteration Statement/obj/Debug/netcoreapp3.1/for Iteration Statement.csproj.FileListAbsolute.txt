@@ -1,0 +1,13 @@
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\bin\Debug\netcoreapp3.1\for Iteration Statement.exe
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\bin\Debug\netcoreapp3.1\for Iteration Statement.deps.json
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\bin\Debug\netcoreapp3.1\for Iteration Statement.runtimeconfig.json
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\bin\Debug\netcoreapp3.1\for Iteration Statement.runtimeconfig.dev.json
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\bin\Debug\netcoreapp3.1\for Iteration Statement.dll
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\bin\Debug\netcoreapp3.1\for Iteration Statement.pdb
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\obj\Debug\netcoreapp3.1\for Iteration Statement.csprojAssemblyReference.cache
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\obj\Debug\netcoreapp3.1\for Iteration Statement.AssemblyInfoInputs.cache
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\obj\Debug\netcoreapp3.1\for Iteration Statement.AssemblyInfo.cs
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\obj\Debug\netcoreapp3.1\for Iteration Statement.csproj.CoreCompileInputs.cache
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\obj\Debug\netcoreapp3.1\for Iteration Statement.dll
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\obj\Debug\netcoreapp3.1\for Iteration Statement.pdb
+C:\Users\Anne-Leon\source\repos\for Iteration Statement\for Iteration Statement\obj\Debug\netcoreapp3.1\for Iteration Statement.genruntimeconfig.cache
