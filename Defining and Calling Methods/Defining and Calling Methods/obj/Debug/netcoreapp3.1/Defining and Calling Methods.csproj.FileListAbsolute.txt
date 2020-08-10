@@ -1,0 +1,13 @@
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\bin\Debug\netcoreapp3.1\Defining and Calling Methods.exe
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\bin\Debug\netcoreapp3.1\Defining and Calling Methods.deps.json
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\bin\Debug\netcoreapp3.1\Defining and Calling Methods.runtimeconfig.json
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\bin\Debug\netcoreapp3.1\Defining and Calling Methods.runtimeconfig.dev.json
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\bin\Debug\netcoreapp3.1\Defining and Calling Methods.dll
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\bin\Debug\netcoreapp3.1\Defining and Calling Methods.pdb
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\obj\Debug\netcoreapp3.1\Defining and Calling Methods.csprojAssemblyReference.cache
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\obj\Debug\netcoreapp3.1\Defining and Calling Methods.AssemblyInfoInputs.cache
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\obj\Debug\netcoreapp3.1\Defining and Calling Methods.AssemblyInfo.cs
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\obj\Debug\netcoreapp3.1\Defining and Calling Methods.csproj.CoreCompileInputs.cache
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\obj\Debug\netcoreapp3.1\Defining and Calling Methods.dll
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\obj\Debug\netcoreapp3.1\Defining and Calling Methods.pdb
+C:\Users\Anne-Leon\source\repos\Defining and Calling Methods\Defining and Calling Methods\obj\Debug\netcoreapp3.1\Defining and Calling Methods.genruntimeconfig.cache
